@@ -13,16 +13,15 @@ This project is in the pre-alpha stage, aka it's not working... please check the
 Usage
 =========
 Here's an example..  
-`
 
-var tar = document.getElementById('target');
- var properties = {
+	var tar = document.getElementById('target');
+	var properties = {
 		Stage:{
 			width : 640,
 			height: 480
 		}
 	}
- var stage = {
+	var stage = {
 		width: properties.Stage.width,
 		height: properties.Stage.height,
 		
