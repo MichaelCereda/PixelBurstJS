@@ -13,7 +13,9 @@ This project is in the pre-alpha stage, aka it's not working... please check the
 Usage
 =========
 Here's an example..  
-`var tar = document.getElementById('target');
+`
+
+var tar = document.getElementById('target');
  var properties = {
 		Stage:{
 			width : 640,
