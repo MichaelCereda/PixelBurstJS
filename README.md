@@ -8,7 +8,8 @@ The build script used is from less.js project https://github.com/cloudhead/less.
   
 ATTENTION
 =========
-This project is in the pre-alpha stage, aka it's not working... please check the changes
+This project is in the pre-alpha stage, aka it's not working... please check the changes  
+ 07/06/11 - alpha stage, the first release is coming  
 
 Usage
 =========
